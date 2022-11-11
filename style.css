@@ -1,0 +1,8 @@
+.heading{
+    width: 80%;
+    font-size:22px;
+}
+
+body{
+    background: radial-gradient(rgb(253, 105, 174),rgb(243, 111, 186),rgb(243, 103, 227));
+}
